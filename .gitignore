@@ -1,18 +1,4 @@
-# Large model file
-shape_predictor_68_face_landmarks.dat
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-
-# Virtual environment
-venv/
-env/
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Alarm (optional)
-alarm.wav
+echo "shape_predictor_68_face_landmarks.dat" >> .gitignore
+git add .gitignore
+git commit -m "Add large model file to gitignore"
+git push
