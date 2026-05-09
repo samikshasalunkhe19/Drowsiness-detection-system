@@ -54,12 +54,124 @@ The system continuously monitors the driver's face using a webcam and instantly 
 
 ## 🖥️ Professional Dashboard
 
-- 📈 EAR live graph
-- 📊 Fatigue analytics
-- 📉 Event timeline
-- 🔥 Hourly heatmap
-- 📂 Screenshot gallery
+# 🖥️ Dashboard Features
 
+## 📌 KPI Summary Cards
+
+Displays real-time summary statistics at the top of the dashboard:
+
+| Metric | Description |
+|--------|-------------|
+| Total Events | Total number of logged detection events |
+| Drowsiness Alerts | Number of drowsiness alerts triggered |
+| Yawn Events | Total detected yawn events |
+| Awake Recoveries | Times driver recovered from fatigue |
+
+---
+
+# 📈 Event Timeline Visualization
+
+Interactive scatter plot displaying all recorded events over time.
+
+### Event Categories
+
+| Event Type | Description |
+|------------|-------------|
+| 🔴 DROWSINESS_DETECTED | Driver fatigue detected |
+| 🟡 YAWN_DETECTED | Yawn event detected |
+| 🟢 DRIVER_AWAKE | Driver recovered / alert ended |
+
+### Features
+
+- Interactive zoom & hover
+- Color-coded event tracking
+- Chronological fatigue analysis
+
+---
+
+# 👁️ EAR Trend Analysis
+
+A dynamic line graph visualizing:
+
+- Eye Aspect Ratio (EAR) values
+- Fatigue progression over time
+- Drowsiness threshold crossing
+
+### Threshold Indicator
+
+A dashed red reference line is displayed at:
+
+```text
+EAR = 0.25
+```
+
+Values below this threshold indicate prolonged eye closure and possible fatigue.
+
+---
+
+# ⏰ Hourly Drowsiness Frequency
+
+A bar-chart heatmap showing which hours of the day experienced the highest number of drowsiness alerts.
+
+### Benefits
+
+- Identifies high-risk driving periods
+- Useful for fatigue pattern analysis
+- Helps evaluate driver alertness trends
+
+---
+
+# 📸 Screenshot Gallery
+
+Displays all automatically captured screenshots from drowsiness events.
+
+### Gallery Includes
+
+- Alert images
+- Timestamps
+- Event filenames
+- Grid-based image layout
+
+All screenshots are loaded directly from:
+
+```text
+screenshots/
+```
+
+---
+
+# 📋 Raw Event Log Viewer
+
+Expandable table displaying the complete event history from:
+
+```text
+drowsiness_log.json
+```
+
+### Logged Data Includes
+
+- Timestamp
+- Event type
+- EAR value
+- MAR value
+- Fatigue score
+- Alert status
+
+Events are automatically sorted from newest to oldest.
+
+---
+
+# 🔄 Auto Refresh Support
+
+The dashboard supports:
+
+- ✅ Manual refresh button
+- ✅ 5-second live auto-refresh
+- ✅ Real-time monitoring support
+
+This allows live visualization while the detection system is actively running.
+
+---
 ---
 
 # 🛠️ Tech Stack
