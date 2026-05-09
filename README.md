@@ -9,8 +9,6 @@
 
 <br>
 
-<img src="images/demo_banner.png" width="900"/>
-
 ### Real-Time AI-Based Driver Fatigue Monitoring using Computer Vision
 
 </div>
@@ -236,7 +234,7 @@ alarm.wav
 ## 5️⃣ Run the Real-Time Detection System
 
 ```bash
-python realtime_drowsiness_detection.py
+python drowsiness_main.py
 ```
 
 ---
