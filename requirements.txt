@@ -3,27 +3,9 @@
 #  Install: pip install -r requirements.txt
 # ─────────────────────────────────────────────────────────────────────────────
 
-# Core Computer Vision
-opencv-python>=4.8.0
-imutils>=0.5.4
-
-# Face & Landmark Detection
-dlib>=19.24.0          # requires CMake + C++ build tools (see README)
-
-# Numerical & Distance Computation
-numpy>=1.24.0
-scipy>=1.11.0
-
-# Audio Alarm
-pygame>=2.5.0
-
-# Optional: Streamlit Dashboard
 streamlit>=1.28.0
-
-# Optional: Deep Learning (GPU support requires cuda builds)
-# tensorflow>=2.13.0
-# torch>=2.0.0
-# torchvision>=0.15.0
-
+plotly>=5.0.0
+pandas>=2.0.0
+numpy>=1.24.0
 # Utilities (usually pre-installed)
 Pillow>=10.0.0
