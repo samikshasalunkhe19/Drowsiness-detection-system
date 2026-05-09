@@ -52,8 +52,6 @@ The system continuously monitors the driver's face using a webcam and instantly 
 
 ---
 
-## 🖥️ Professional Dashboard
-
 # 🖥️ Dashboard Features
 
 ## 📌 KPI Summary Cards
@@ -301,20 +299,6 @@ Fatigue Score =
 | q | Quit application |
 | s | Save screenshot |
 | d | Toggle dark/light mode |
-
----
-
-# 📸 Screenshots
-
-## 🔹 Real-Time Detection
-
-<img src="images/detection.png" width="850"/>
-
----
-
-## 🔹 Dashboard Analytics
-
-<img src="images/dashboard.png" width="850"/>
 
 ---
 
