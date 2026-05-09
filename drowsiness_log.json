@@ -1,0 +1,642 @@
+[
+  {
+    "timestamp": "2026-05-08T23:12:15.856976",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.196
+  },
+  {
+    "timestamp": "2026-05-08T23:12:16.640583",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.252
+  },
+  {
+    "timestamp": "2026-05-08T23:12:27.494512",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.185
+  },
+  {
+    "timestamp": "2026-05-08T23:12:29.986275",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.296
+  },
+  {
+    "timestamp": "2026-05-08T23:12:33.361538",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.185
+  },
+  {
+    "timestamp": "2026-05-08T23:12:34.201508",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.252
+  },
+  {
+    "timestamp": "2026-05-08T23:12:39.017451",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.161
+  },
+  {
+    "timestamp": "2026-05-08T23:12:40.615176",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.26
+  },
+  {
+    "timestamp": "2026-05-08T23:12:43.082040",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.134
+  },
+  {
+    "timestamp": "2026-05-08T23:12:43.301874",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.261
+  },
+  {
+    "timestamp": "2026-05-08T23:12:47.015848",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.1
+  },
+  {
+    "timestamp": "2026-05-08T23:12:51.305710",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.323
+  },
+  {
+    "timestamp": "2026-05-08T23:12:56.531510",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.163
+  },
+  {
+    "timestamp": "2026-05-08T23:12:57.250777",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.271
+  },
+  {
+    "timestamp": "2026-05-08T23:12:59.249328",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.202
+  },
+  {
+    "timestamp": "2026-05-08T23:13:00.397629",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.269
+  },
+  {
+    "timestamp": "2026-05-08T23:13:01.913479",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.151
+  },
+  {
+    "timestamp": "2026-05-08T23:13:02.913392",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.26
+  },
+  {
+    "timestamp": "2026-05-08T23:13:09.324580",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.234
+  },
+  {
+    "timestamp": "2026-05-08T23:13:10.113128",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.272
+  },
+  {
+    "timestamp": "2026-05-08T23:13:15.912913",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.205
+  },
+  {
+    "timestamp": "2026-05-08T23:13:16.211224",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.261
+  },
+  {
+    "timestamp": "2026-05-08T23:14:26.424876",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.227
+  },
+  {
+    "timestamp": "2026-05-08T23:14:27.870176",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.251
+  },
+  {
+    "timestamp": "2026-05-08T23:15:04.443541",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.186
+  },
+  {
+    "timestamp": "2026-05-08T23:15:05.324438",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.26
+  },
+  {
+    "timestamp": "2026-05-08T23:15:12.500583",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.206
+  },
+  {
+    "timestamp": "2026-05-08T23:15:13.297507",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.262
+  },
+  {
+    "timestamp": "2026-05-08T23:15:43.489792",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.25
+  },
+  {
+    "timestamp": "2026-05-08T23:15:56.685270",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.255
+  },
+  {
+    "timestamp": "2026-05-08T23:16:11.931688",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.192
+  },
+  {
+    "timestamp": "2026-05-08T23:16:13.377183",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.253
+  },
+  {
+    "timestamp": "2026-05-08T23:16:15.131552",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.193
+  },
+  {
+    "timestamp": "2026-05-08T23:16:17.661152",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.257
+  },
+  {
+    "timestamp": "2026-05-08T23:16:22.388191",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.173
+  },
+  {
+    "timestamp": "2026-05-08T23:16:23.025573",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.268
+  },
+  {
+    "timestamp": "2026-05-08T23:16:24.792841",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.157
+  },
+  {
+    "timestamp": "2026-05-08T23:16:27.153990",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.308
+  },
+  {
+    "timestamp": "2026-05-09T11:09:14.057258",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.213
+  },
+  {
+    "timestamp": "2026-05-09T11:09:24.345637",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.272
+  },
+  {
+    "timestamp": "2026-05-09T11:09:26.587903",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.158
+  },
+  {
+    "timestamp": "2026-05-09T11:09:28.409584",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.28
+  },
+  {
+    "timestamp": "2026-05-09T11:09:30.768218",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.147
+  },
+  {
+    "timestamp": "2026-05-09T11:09:35.198265",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.255
+  },
+  {
+    "timestamp": "2026-05-09T11:09:43.199033",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.246
+  },
+  {
+    "timestamp": "2026-05-09T11:09:43.545642",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.333
+  },
+  {
+    "timestamp": "2026-05-09T11:09:51.540693",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.221
+  },
+  {
+    "timestamp": "2026-05-09T11:09:52.068996",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.317
+  },
+  {
+    "timestamp": "2026-05-09T11:09:58.608375",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.201
+  },
+  {
+    "timestamp": "2026-05-09T11:09:58.921169",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.253
+  },
+  {
+    "timestamp": "2026-05-09T11:10:05.016333",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.183
+  },
+  {
+    "timestamp": "2026-05-09T11:10:06.130540",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.257
+  },
+  {
+    "timestamp": "2026-05-09T11:10:09.408722",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.183
+  },
+  {
+    "timestamp": "2026-05-09T11:10:09.979461",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.25
+  },
+  {
+    "timestamp": "2026-05-09T11:10:12.265401",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.23
+  },
+  {
+    "timestamp": "2026-05-09T11:10:12.594603",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.267
+  },
+  {
+    "timestamp": "2026-05-09T11:10:16.640805",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.234
+  },
+  {
+    "timestamp": "2026-05-09T11:10:16.959115",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.262
+  },
+  {
+    "timestamp": "2026-05-09T11:10:34.225599",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.194
+  },
+  {
+    "timestamp": "2026-05-09T11:10:40.018132",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.31
+  },
+  {
+    "timestamp": "2026-05-09T11:10:50.515458",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.118
+  },
+  {
+    "timestamp": "2026-05-09T11:10:52.499926",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.257
+  },
+  {
+    "timestamp": "2026-05-09T11:10:56.995183",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.196
+  },
+  {
+    "timestamp": "2026-05-09T11:10:57.791088",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.252
+  },
+  {
+    "timestamp": "2026-05-09T11:11:04.440109",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.202
+  },
+  {
+    "timestamp": "2026-05-09T11:11:05.413660",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.251
+  },
+  {
+    "timestamp": "2026-05-09T11:11:26.662622",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.205
+  },
+  {
+    "timestamp": "2026-05-09T11:11:27.836856",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.258
+  },
+  {
+    "timestamp": "2026-05-09T11:11:30.471372",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.142
+  },
+  {
+    "timestamp": "2026-05-09T11:11:34.287685",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.258
+  },
+  {
+    "timestamp": "2026-05-09T11:11:47.180503",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.169
+  },
+  {
+    "timestamp": "2026-05-09T11:11:47.921977",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.26
+  },
+  {
+    "timestamp": "2026-05-09T11:11:50.278496",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.235
+  },
+  {
+    "timestamp": "2026-05-09T11:11:51.400613",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.251
+  },
+  {
+    "timestamp": "2026-05-09T11:11:54.963674",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.145
+  },
+  {
+    "timestamp": "2026-05-09T11:11:56.419613",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.259
+  },
+  {
+    "timestamp": "2026-05-09T11:12:05.202225",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.186
+  },
+  {
+    "timestamp": "2026-05-09T11:12:06.560872",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.295
+  },
+  {
+    "timestamp": "2026-05-09T11:12:14.943606",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.194
+  },
+  {
+    "timestamp": "2026-05-09T11:12:19.890037",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.298
+  },
+  {
+    "timestamp": "2026-05-09T11:12:22.416208",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.167
+  },
+  {
+    "timestamp": "2026-05-09T11:12:26.807111",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.314
+  },
+  {
+    "timestamp": "2026-05-09T11:12:29.713164",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.145
+  },
+  {
+    "timestamp": "2026-05-09T11:12:32.724319",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.275
+  },
+  {
+    "timestamp": "2026-05-09T11:12:40.564292",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.158
+  },
+  {
+    "timestamp": "2026-05-09T11:15:03.697631",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.168
+  },
+  {
+    "timestamp": "2026-05-09T11:15:08.784705",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.258
+  },
+  {
+    "timestamp": "2026-05-09T11:15:13.897704",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.2
+  },
+  {
+    "timestamp": "2026-05-09T11:15:15.415705",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.253
+  },
+  {
+    "timestamp": "2026-05-09T11:15:20.222606",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.205
+  },
+  {
+    "timestamp": "2026-05-09T11:15:22.428781",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.258
+  },
+  {
+    "timestamp": "2026-05-09T11:15:24.884241",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.238
+  },
+  {
+    "timestamp": "2026-05-09T11:15:27.505268",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.27
+  },
+  {
+    "timestamp": "2026-05-09T11:15:35.251074",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.227
+  },
+  {
+    "timestamp": "2026-05-09T11:15:37.120040",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.259
+  },
+  {
+    "timestamp": "2026-05-09T11:15:39.183242",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.198
+  },
+  {
+    "timestamp": "2026-05-09T11:15:40.483384",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.255
+  },
+  {
+    "timestamp": "2026-05-09T11:16:04.213287",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.235
+  },
+  {
+    "timestamp": "2026-05-09T11:16:04.537496",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.281
+  },
+  {
+    "timestamp": "2026-05-09T11:16:06.799827",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.182
+  },
+  {
+    "timestamp": "2026-05-09T11:16:12.018393",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.259
+  },
+  {
+    "timestamp": "2026-05-09T11:16:19.462591",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.181
+  },
+  {
+    "timestamp": "2026-05-09T11:16:20.278927",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.315
+  },
+  {
+    "timestamp": "2026-05-09T11:16:24.840882",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.181
+  },
+  {
+    "timestamp": "2026-05-09T18:26:24.745229",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.224
+  },
+  {
+    "timestamp": "2026-05-09T18:26:25.246623",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.255
+  },
+  {
+    "timestamp": "2026-05-09T18:26:29.340070",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.233
+  },
+  {
+    "timestamp": "2026-05-09T18:26:29.683657",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.255
+  },
+  {
+    "timestamp": "2026-05-09T18:26:33.999108",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.214
+  },
+  {
+    "timestamp": "2026-05-09T18:26:37.061326",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.262
+  },
+  {
+    "timestamp": "2026-05-09T18:26:56.438210",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.237
+  },
+  {
+    "timestamp": "2026-05-09T18:26:58.100205",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.273
+  },
+  {
+    "timestamp": "2026-05-09T18:27:02.208639",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.213
+  },
+  {
+    "timestamp": "2026-05-09T18:27:03.416467",
+    "event": "YAWN_DETECTED",
+    "mar": 0.723
+  },
+  {
+    "timestamp": "2026-05-09T18:27:07.594919",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.258
+  },
+  {
+    "timestamp": "2026-05-09T18:27:11.681690",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.162
+  },
+  {
+    "timestamp": "2026-05-09T18:27:13.622162",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.282
+  },
+  {
+    "timestamp": "2026-05-09T18:27:16.365500",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.212
+  },
+  {
+    "timestamp": "2026-05-09T18:27:17.313348",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.267
+  },
+  {
+    "timestamp": "2026-05-09T18:27:20.686410",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.184
+  },
+  {
+    "timestamp": "2026-05-09T18:27:30.357874",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.287
+  },
+  {
+    "timestamp": "2026-05-09T18:27:46.006369",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.178
+  },
+  {
+    "timestamp": "2026-05-09T18:27:46.343422",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.281
+  },
+  {
+    "timestamp": "2026-05-09T18:27:48.569925",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.21
+  },
+  {
+    "timestamp": "2026-05-09T18:27:50.536541",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.253
+  },
+  {
+    "timestamp": "2026-05-09T18:27:52.805463",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.201
+  },
+  {
+    "timestamp": "2026-05-09T18:27:59.058264",
+    "event": "DRIVER_AWAKE",
+    "ear": 0.267
+  },
+  {
+    "timestamp": "2026-05-09T18:28:06.357367",
+    "event": "DROWSINESS_DETECTED",
+    "ear": 0.182
+  }
+]
